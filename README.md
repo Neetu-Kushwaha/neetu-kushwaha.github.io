@@ -1,6 +1,6 @@
 # Otilia Stretcu's personal webpage
 
-This is the personal website of Otilia Stretcu, which can be visualized at [https://otiliastr.github.io/](https://otiliastr.github.io/).
+This is the personal website of Neetu Kushwaha, which can be visualized at [https://otiliastr.github.io/](https://github.com/Neetu-Kushwaha).
 
 ## How to use this template for your website
 
