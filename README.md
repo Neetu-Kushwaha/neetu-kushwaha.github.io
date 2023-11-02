@@ -1,6 +1,6 @@
 # Neetu Kushwaha's personal webpage
 
-This is the personal website of Neetu Kushwaha, which can be visualized at [https://neetu-kushwaha.github.io/](https://github.com/Neetu-Kushwaha).
+This is the personal website of Neetu Kushwaha, which can be visualized at [[https://neetu-kushwaha.github.io/](https://neetu-kushwaha.github.io/)].
 
 ## How to use this template for your website
 
